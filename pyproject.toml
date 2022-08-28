@@ -2,6 +2,7 @@
 name = "railway-fastapi-template"
 version = "0.1.0"
 description = "This example starts up a FastAPI server"
+authors = ["DeviousLab <deviouslab@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]

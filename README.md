@@ -10,8 +10,7 @@ tags:
 
 This example starts up a [FastAPI](https://fastapi.tiangolo.com/) server.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/fastapi)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp-starters%2Ffastapi)
 ## ✨ Features
 
 - FastAPI
@@ -26,5 +25,5 @@ This example starts up a [FastAPI](https://fastapi.tiangolo.com/) server.
 
 ## 📝 Notes
 
-- To learn about how FastAPI with most of its features, you can visit the [FastAPI Documentation](https://fastapi.tiangolo.com/tutorial/).
+- To learn about how to use FastAPI with most of its features, you can visit the [FastAPI Documentation](https://fastapi.tiangolo.com/tutorial/).
 - FastAPI provides automatic documentation to call and test your API directly from the browser. You can access it at `/docs` with [Swagger](https://github.com/swagger-api/swagger-ui) or at `/redoc` with [Redoc](https://github.com/Rebilly/ReDoc).
